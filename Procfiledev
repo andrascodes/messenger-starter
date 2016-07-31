@@ -1,0 +1,2 @@
+web: nodemon index.js
+tunnel: sh scripts/tunnel.sh
